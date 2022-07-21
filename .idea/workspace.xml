@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b9fd4b-6904-4c9f-b39a-c41ccd564cd8" name="Changes" comment="++">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice2/Practice2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice2/src/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice2/src/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice2/src/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d0b9fd4b-6904-4c9f-b39a-c41ccd564cd8" name="Changes" comment="practice 2">
+      <change afterPath="$PROJECT_DIR$/Practice2/Advance/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice2/src/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice2/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice2/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Lesson4/src/lesson4/Human.java",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Practice_Java_picabu/Practice2/Base",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
@@ -109,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658139580300</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice 2">
+      <created>1658394855775</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658394855775</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="+" />
     <MESSAGE value="++" />
-    <option name="LAST_COMMIT_MESSAGE" value="++" />
+    <MESSAGE value="practice 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 2" />
   </component>
 </project>
