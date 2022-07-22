@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0b9fd4b-6904-4c9f-b39a-c41ccd564cd8" name="Changes" comment="practice 2">
-      <change afterPath="$PROJECT_DIR$/Practice2/Advance/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice2/src/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Base.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice2/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practice2/src/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Base/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice2/Advance/Advance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice2/Base/Base.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice2/Advance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Advance/src/Advance.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,19 @@
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Base (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Practice_Java_picabu\Practice2\Base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Advance (1)">
+    <configuration name="Advance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Advance" />
+      <module name="Advance" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance" />
       <module name="Practice_1" />
@@ -70,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Advance (1)" />
         <item itemvalue="Application.Base (1)" />
         <item itemvalue="Application.Advance" />
         <item itemvalue="Application.Base" />
@@ -113,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658394855775</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice 2">
+      <created>1658395026766</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658395026766</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
