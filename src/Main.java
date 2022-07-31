@@ -1,5 +1,16 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+
+
+        Tigr vasya = new Tigr("vasya", 20);
+        vasya.hunt();
+        vasya.breath();
+        vasya.run();
+
+        Horse smetana = new Horse("smetana");
+        smetana.makeSound();
+        smetana.breath();
+        smetana.run();
     }
 }

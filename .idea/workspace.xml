@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0b9fd4b-6904-4c9f-b39a-c41ccd564cd8" name="Changes" comment="practice 2+">
+    <list default="true" id="d0b9fd4b-6904-4c9f-b39a-c41ccd564cd8" name="Changes" comment="+">
+      <change afterPath="$PROJECT_DIR$/OtherPractice/OtherPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/Practice_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/my_first_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/src/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/src/Financial_record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/src/Jiguli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice_3/src/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Practice2/Advance/src/Advance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Practice2/Advance/src/Advance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Practice_Java_picabu\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,7 +39,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="2BwAdoPui6XpSkqnD2rGOAywfAg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -34,32 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Practice_Java_picabu/Practice2/Base&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Practice_Java_picabu",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Practice_Java_picabu\Practice2\Base" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Advance (1)">
+  <component name="RunManager" selected="Application.Base">
     <configuration name="Advance (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Advance" />
       <module name="Advance" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Advance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Advance" />
-      <module name="Practice_1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,17 +79,32 @@
     </configuration>
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Base" />
-      <module name="Practice_1" />
+      <module name="Practice_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Practice_Java_picabu" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="OtherPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Advance (1)" />
-        <item itemvalue="Application.Base (1)" />
-        <item itemvalue="Application.Advance" />
         <item itemvalue="Application.Base" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Advance (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Base (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658479062261</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="+">
+      <created>1658495121543</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658495121543</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,10 +181,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="+" />
     <MESSAGE value="++" />
     <MESSAGE value="practice 2" />
     <MESSAGE value="practice 2+" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice 2+" />
+    <MESSAGE value="+" />
+    <option name="LAST_COMMIT_MESSAGE" value="+" />
   </component>
 </project>
